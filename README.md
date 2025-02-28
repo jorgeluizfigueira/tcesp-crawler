@@ -5,7 +5,7 @@
 [LinkedIn](https://www.linkedin.com/in/jorgeluizfigueira/)
 
 ## 📌 Contexto
-Este projeto foi desenvolvido como parte do desafio técnico para a vaga de **Desenvolvedor Python Jr. (Crawler/RPA)** na **Turivius**. O objetivo principal é criar um **robô de automação de processos (RPA)** capaz de extrair dados do site do **TCE-SP**. Embora o site ofereça diversos parâmetros de busca para os processos, este desafio focou especificamente no parâmetro *"Todas essas palavras" (txtTdPalvs)*, utilizando como exemplo o termo: *"fraude em escolas"*. 
+Este projeto foi desenvolvido como parte do desafio técnico para a vaga de **Desenvolvedor Python Jr. (Crawler/RPA)** na [Turivius](https://turivius.com/). O objetivo principal é criar um **robô de automação de processos (RPA)** capaz de extrair dados do site do **TCE-SP**. Embora o site ofereça diversos parâmetros de busca para os processos, este desafio focou especificamente no parâmetro *"Todas essas palavras" (txtTdPalvs)*, utilizando como exemplo o termo: *"fraude em escolas"*. 
 
 ## 📜 Desafio e Critérios de Avaliação
 O robô deve:
